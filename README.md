@@ -10,8 +10,11 @@ PyTorch is used to implement the Siamese Neural Network. The model has about 77M
 
 ![image](https://github.com/user-attachments/assets/669301e1-3d3b-4d05-bc27-9fb19f865ddf)
 
-For more reference the architecture used in this project is shown in the below image:
+For more reference, the architecture used in this project is shown in the below image:
 ![image](https://github.com/user-attachments/assets/4dba1dcf-ad1d-4213-b272-15780fd3a368)
 
 # Results 
 The model achieved an accuracy of 95.83% on the test data curated. 
+
+# Real Time Verification 
+![image](https://github.com/user-attachments/assets/ca251ae7-2469-4b72-b0c1-0ebe7e8e7d31)
